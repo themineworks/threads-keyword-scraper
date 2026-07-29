@@ -1,0 +1,83 @@
+[
+  {
+    "post_id": "3932679254567762671",
+    "code": "DaTrvIgDzrv",
+    "url": "https://www.threads.net/@kevbuildsai/post/DaTrvIgDzrv",
+    "username": "kevbuildsai",
+    "user_full_name": "Kev | Etsy & Shopify | AI Agent Automation",
+    "user_pic_url": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/720050827_17871852672681265_8005144370150292753_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGlDtDe1QUW9hD70ZKD2qXU4Zfd5a1NdyXa2nEdR2gVAjB03SH5fs86trb_5imJRCM&_nc_ohc=B9OiDIxfYfgQ7kNvwHGPpcb&_nc_gid=L-SOE2WNGydtlnJOs5F0WQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQAO5RDBlfTlIjPBt9YUjXn1M5chyy9Y9u-szqtozzx5iw&oe=6A6E43B8&_nc_sid=10d13b",
+    "user_verified": false,
+    "text": "Yesterdays Etsy numbers: \n● 24 orders \n● $433 in sales \n● 0 hours worked \n\nThe AI Agents took care of the entire day for me",
+    "posted_at": "2026-07-02T22:38:41.000Z",
+    "posted_at_human": "Thu, 02 Jul 2026 22:38:41 GMT",
+    "like_count": 56,
+    "reply_count": 10,
+    "repost_count": 2,
+    "quote_count": 1,
+    "has_media": true,
+    "media_urls": [
+      "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/719490197_17876241939681265_2189429612420365559_n.webp?_nc_cat=106&ig_cache_key=MzkzMjY3OTI1NDU2Nzc2MjY3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QH-vK_o5ovwQ7kNvwH01Lg1&_nc_oc=AdrS0LFv9A4Bb9piNT5OQ9S7gvWB4hNcI2MaITsLEIAWbCXqns3lsAGIgQ_DDt-BD0A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=L-SOE2WNGydtlnJOs5F0WQ&_nc_ss=7a22e&oh=00_AQBRM_gOPnca96UWAgFWOItvoFcZoakipJdIW65sOLu4QQ&oe=6A6E3F7A"
+    ],
+    "media_type": "image",
+    "is_reply": false,
+    "is_repost": false,
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "scraped_at": "2026-07-28T10:40:54.747Z"
+  },
+  {
+    "post_id": "3755636652363252188",
+    "code": "DQes6MZjIHc",
+    "url": "https://www.threads.net/@leadgenman/post/DQes6MZjIHc",
+    "username": "leadgenman",
+    "user_full_name": "Manthan Patel | Lead Gen Man",
+    "user_pic_url": "https://scontent-lhr11-1.cdninstagram.com/v/t51.2885-19/470808455_985210886761716_8648221210790581778_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGlDtDe1QUW9hD70ZKD2qXU4Zfd5a1NdyXa2nEdR2gVAjB03SH5fs86trb_5imJRCM&_nc_ohc=7QfXGmsWHAUQ7kNvwHXSaAI&_nc_gid=L-SOE2WNGydtlnJOs5F0WQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQDf-WqOYjMB9Or-p712q--myWYG94WuPZdimsS7uHhkJQ&oe=6A6E61D5&_nc_sid=10d13b",
+    "user_verified": true,
+    "text": "Everyone’s building AI agents\n\nAlmost no one knows which orchestration framework to use \n\nHere’s how to stop winging it :\n\n⭕️ Use n8n when:\n\n • You’re integrating LLMs with tools\n • Your flow is trigger → AI → action\n • You want fast, no-code deployment\n • You don’t need agent memory\n\n ⭕️ Use LangGraph when:\n\n • Your agents need to think, loop, reflect\n • You want memory + state across steps\n • You’re building logic trees, retries, branching \n  paths\n • You need observability",
+    "posted_at": "2025-10-31T16:07:43.000Z",
+    "posted_at_human": "Fri, 31 Oct 2025 16:07:43 GMT",
+    "like_count": 377,
+    "reply_count": 37,
+    "repost_count": 43,
+    "quote_count": 0,
+    "has_media": true,
+    "media_urls": [
+      "https://scontent-lhr6-1.cdninstagram.com/o1/v/t16/f2/m84/AQPcx73mfBgulp2vjmN7-ngz4WT89ajRwaQ3KrEmZxeMNJ8zkOyNma3US9DvAkdG7rzDgIYDU5JqXv6CCIW_2jNjmnHh9sRwD_0gEtI.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=xo2b2Hu6ppgQ7kNvwGxGyHi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4zNjguZGFzaF9iYXNlbGluZV8zX3YxIiwieHB2X2Fzc2V0X2lkIjoyNDk2MjE2MDg4Njc3MDE2MywiYXNzZXRfYWdlX2RheXMiOjI2OSwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ec94001b885183d&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC84ODQ5MjcwM0I4N0NFQjAyMTJBMTA3ODcwMjcxMTE5NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm5qfbx_-811gVAigCQzMsF0AIUeuFHrhSGBJkYXNoX2Jhc2VsaW5lXzNfdjERAHXqB2XongEA&_nc_gid=L-SOE2WNGydtlnJOs5F0WQ&_nc_zt=28&_nc_ss=7a22e&oh=00_AQBs0xvCMu55agFZY5oWJ2WCC3LfSYDlLfLAbJt_1oJBug&oe=6A6A60E2"
+    ],
+    "media_type": "video",
+    "is_reply": false,
+    "is_repost": false,
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "scraped_at": "2026-07-28T10:40:54.922Z"
+  },
+  {
+    "post_id": "3951081607205692639",
+    "code": "DbVD8m8EyTf",
+    "url": "https://www.threads.net/@felix_c888/post/DbVD8m8EyTf",
+    "username": "felix_c888",
+    "user_full_name": "Felix C",
+    "user_pic_url": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/721169707_17886195408589293_5897129625997846736_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45ODguYzIifQ&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGlDtDe1QUW9hD70ZKD2qXU4Zfd5a1NdyXa2nEdR2gVAjB03SH5fs86trb_5imJRCM&_nc_ohc=7D_vp1Ei88IQ7kNvwFqxvQF&_nc_gid=L-SOE2WNGydtlnJOs5F0WQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQDnb-x163hpc0RZEZdw1WN756i5luXFUYoJxQIlvFK6Kg&oe=6A6E6EFA&_nc_sid=10d13b",
+    "user_verified": false,
+    "text": "Over the past few months, I’ve been collecting every AI agent resource I found useful.\n\nVideos.\n\nGitHub repositories.\n\nBooks.\n\nWhitepapers.\n\nGuides.\n\nCourses.\n\nInstead of leaving everything scattered across dozens of bookmarks, I spent some of my free time organizing it into one place.\n\nThis is the resource library I wish I had when I first started learning AI agents.\n\nI’ll keep updating it whenever I find something worth adding, so it should only get better over time.",
+    "posted_at": "2026-07-28T08:00:53.000Z",
+    "posted_at_human": "Tue, 28 Jul 2026 08:00:53 GMT",
+    "like_count": 4,
+    "reply_count": 2,
+    "repost_count": 0,
+    "quote_count": 0,
+    "has_media": true,
+    "media_urls": [
+      "https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/756045877_17893994652589293_8901818765711151925_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk1MTA4MTYwNzIwNTY5MjYzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE5MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RlIA3bP-UIgQ7kNvwHVMWZq&_nc_oc=AdpVNWwqY69Koa2F2S-ReXzpCxQVJN-612pK-lRWQywr5koXZTx36jOw-BnXY7uYLi4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=L-SOE2WNGydtlnJOs5F0WQ&_nc_ss=7a22e&oh=00_AQDJXXfC12BH55k7Puri26vupAflW985SwY9ANH2rwspcA&oe=6A6E3FE4"
+    ],
+    "media_type": "image",
+    "is_reply": false,
+    "is_repost": false,
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "scraped_at": "2026-07-28T10:40:54.980Z"
+  }
+]

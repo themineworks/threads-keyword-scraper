@@ -1,0 +1,14 @@
+{
+  "name": "threads-keyword-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Node.js client for the themineworks/threads-scraper Apify actor",
+  "main": "threads_keyword_scraper.mjs",
+  "scripts": {
+    "start": "node threads_keyword_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^1.9.2"
+  },
+  "license": "MIT"
+}
