@@ -12,6 +12,13 @@ Python client for **[Threads Scraper: Posts, Profiles, Tags & Keyword Monitor](h
 pip install apify-client
 python3 threads_keyword_scraper.py --token YOUR_APIFY_TOKEN --mode "profile"
 ```
+### Node.js
+
+```bash
+npm install apify-client
+node threads_keyword_scraper.mjs --token YOUR_APIFY_TOKEN --token YOUR_APIFY_TOKEN --mode "profile"
+```
+
 
 Get a free API token: [console.apify.com/sign-up](https://console.apify.com/sign-up) — then find it under **Settings → API & Integrations**.
 
