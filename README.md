@@ -5,7 +5,7 @@ Threads has no public API, so this reads the same data a logged-out visitor sees
 **Run it on Apify:** [apify.com/themineworks/threads-scraper](https://apify.com/themineworks/threads-scraper)
 **Docs, FAQ and pricing:** [themineworks.com/actors/threads-scraper](https://themineworks.com/actors/threads-scraper/)
 
-**Price:** $2.00 per 1,000 posts on Apify's free plan, down to $1.20 on higher plans, plus a $0.0025 start fee per run. Failed and empty results are never charged.
+**Price:** From $1.20 per 1,000 posts on Apify's higher plans ($2.00 on the free plan), plus a $0.0025 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
@@ -13,7 +13,7 @@ Threads has no public API, so this reads the same data a logged-out visitor sees
 * Full nested schema with reposts and replies
 * Hashtags, mentions, external URLs extracted
 * Cursor pagination for backfill
-* Zero charge on empty runs
+* Empty results are never charged
 
 ## Quick start
 
@@ -158,7 +158,7 @@ Reposts and replies as nested records, plus hashtags, mentions and any external 
 
 ### How much does the Threads Scraper cost?
 
-$2.00 per 1,000 posts on Apify's free plan, down to $1.20 on higher plans, plus a $0.0025 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
+From $1.20 per 1,000 posts on Apify's higher plans ($2.00 on the free plan), plus a $0.0025 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
 
 ### Can I export the results to CSV or Excel?
 
